@@ -16,7 +16,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
+    <!--捐赠-->
+    <string name="donate_title">donate</string>
+    <string name="donate_again">未安装支付宝客户端，请安装后重试</string>
+    <string name="donate_thanks">感谢捐赠</string>
+    
     <!-- App title -->
     <string name="app_settings_title">Liquid Lounge</string>
 

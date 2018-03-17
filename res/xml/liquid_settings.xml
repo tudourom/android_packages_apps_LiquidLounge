@@ -100,4 +100,11 @@
         android:icon="@drawable/ic_settings_statusbar"
         android:fragment="com.liquid.liquidlounge.fragments.StatusBarSettings"/>
 
+    <!-- Donate -->
+    <Preference
+        android:key="donate_key"
+        android:title="@string/donate_title"
+        android:icon="@drawable/ic_settings_donate"
+        android:fragment="com.liquid.liquidlounge.fragments.DonateSettings"/>
+
 </PreferenceScreen>
